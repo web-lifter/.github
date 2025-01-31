@@ -51,7 +51,6 @@ Become a sponsor: [GitHub Sponsors](https://github.com/sponsors/web-lifter)
 ---
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-lifter&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-lifter&layout=compact&theme=radical)
 
 ---
