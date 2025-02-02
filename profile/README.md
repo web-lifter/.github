@@ -50,11 +50,6 @@ Become a sponsor: [GitHub Sponsors](https://github.com/sponsors/web-lifter)
 
 ---
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-lifter&layout=compact&theme=radical)
-
----
-
 ## Tech Stack:
 | Category      | Tools/Technologies                                                                                   |
 |---------------|-----------------------------------------------------------------------------------------------------|
