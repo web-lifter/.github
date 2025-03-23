@@ -53,11 +53,11 @@ Become a sponsor: [GitHub Sponsors](https://github.com/sponsors/web-lifter)
 |---------------|-----------------------------------------------------------------------------------------------------|
 | **Frontend**  | React, React Native, HTML5, CSS3, Bootstrap, TailwindCSS                                            |
 | **Backend**   | Node.js, Express, Flask, Firebase                                                                   |
-| **Databases** | MongoDB, PostgreSQL, MySQL                                                                          |
+| **Databases** | MongoDB, PostgreSQL, MySQL, TimescaleDB                                                                          |
 | **DevOps**    | Docker, Kubernetes, Nginx                                                                           |
-| **Cloud**     | AWS, Google Cloud Platform (GCP)                                                                    |
+| **Cloud**     | AWS, Google Cloud Platform (GCP), Azure                                                                    |
 | **Testing**   | Selenium                                                                                            |
 | **Data/AI**   | TensorFlow, PyTorch                                                                                 |
 | **APIs**      | GraphQL, REST, Google APIs                                                                          |
 | **Tools**     | Git, GitHub, Postman, Webpack                                                                       |
-| **Programming** | Java, JavaScript, Python, TypeScript                                                              |
+| **Languages** | JavaScript, Python, TypeScript, HTML, PHP, CSS                                                              |
