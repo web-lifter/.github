@@ -60,4 +60,5 @@ Become a sponsor: [GitHub Sponsors](https://github.com/sponsors/web-lifter)
 | **Data/AI**   | TensorFlow, PyTorch                                                                                 |
 | **APIs**      | GraphQL, REST, Google APIs                                                                          |
 | **Tools**     | Git, GitHub, Postman, Webpack                                                                       |
+| **Automation**     | n8n                                                                       |
 | **Languages** | JavaScript, Python, TypeScript, HTML, PHP, CSS                                                              |
