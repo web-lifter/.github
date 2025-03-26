@@ -2,12 +2,6 @@
 
 > "Our mission is to deliver impactful solutions to enhance company revenue, profit margins, and processes."
 <br>
-<div align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweb-lifter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false" alt="Visitor Count" height="28" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/web-lifter" alt="GitHub User's stars" height="28"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/sponsors/web-lifter?style=social&logo=github" alt="GitHub Sponsors" height="28"> &nbsp;&nbsp;&nbsp;
-</div>
-
 ---
 
 ## About Us
