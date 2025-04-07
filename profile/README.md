@@ -1,7 +1,7 @@
 <h1 align="centrer">Welcome to Web Lifter 👋 </h1>
 
 > "Our mission is to deliver impactful solutions to enhance company revenue, profit margins, and processes."
-<br>
+
 ---
 
 ## About Us
