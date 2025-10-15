@@ -6,7 +6,7 @@
 
 ## About Us
 - We're currently working on **cutting-edge solutions** for clients generating $1M+ in annual revenue.
-- Ask us about **Enterprise SEO, Custom web solutions, Software Development and SEO strategies.**
+- Ask us about **Enterprise Solutions, Custom web solutions and Software Development.**
 - Reach out to us:
   - Questions & help related to repositories [open-source@weblifter.com.au](mailto:open-source@weblifter.com.au)
   - Service enquiries [info@weblifter.com.au](mailto:info@weblifter.com.au)
@@ -14,9 +14,9 @@
 ---
 
 ## Check Out Our Resources
-- [Blog](https://weblifter.com.au/blog)  
+- [Blog](https://weblifter.com.au/content)  
 - [SEO Strategies Archive](https://weblifter.com.au/seo-strategies)  
-- [Software Development Best Practices](https://weblifter.com.au/best-practices)
+- [Software Development Best Practices](https://weblifter.com.au/developer-training)
 
 ---
 
@@ -25,8 +25,8 @@
 We specialise in:
 - [Custom Web Development](https://weblifter.com.au/services/custom-web-design)  
 - [Software Development](https://weblifter.com.au/services/software-development)
-- [Enterprise SEO](https://weblifter.com.au/services/enterprise-seo)  
-- [Ecommerce SEO](https://weblifter.com.au/services/ecommerce-seo)  
+- [Enterprise Services](https://weblifter.com.au/services/enterprise)  
+- [Ecommerce Services](https://weblifter.com.au/services/ecommerce)  
 - [Consulting](https://weblifter.com.au/services/consulting)
 
 ### **How can I collaborate with Web Lifter?**
