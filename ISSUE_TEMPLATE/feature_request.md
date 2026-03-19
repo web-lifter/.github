@@ -1,0 +1,13 @@
+---
+name: Feature Request
+about: Suggest a new feature or improvement
+labels: enhancement
+---
+
+## Use Case
+
+## Proposed Solution
+
+## Alternatives Considered
+
+## Additional Context
